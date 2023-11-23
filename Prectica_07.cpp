@@ -145,7 +145,7 @@ void menu(){
                 break;
             case 3:
                 leerArchivoBinario(equipo);
-                cout<<"\nPerdon inge no es com oes un tabl de reportes\n"<<endl;
+                cout<<"\n<< Perdon inge no entiendo la tabla de reportes >>\n"<<endl;
                 break;
         }
     }
